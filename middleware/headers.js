@@ -1,6 +1,6 @@
 const headers = (req, res, next) => {
-	// const origin = (req.headers.origin == 'http://localhost:3000') ? 'http://localhost:3000' : 'https://sunflower-land.com'
-	res.setHeader('Access-Control-Allow-Origin', '*')
+	const origin = (req.headers.origin == 'http://localhost:3000') ? 'http://localhost:3000' : 'https://sunflower-land.com'
+	res.setHeader('Access-Control-Allow-Origin', origin)
 	res.setHeader('Access-Control-Allow-Methods', 'GET')
 	res.setHeader('Access-Control-Allow-Headers', 'Origin, Content-Type, Accept')
 	res.setHeader('Access-Control-Allow-Credentials', true)
