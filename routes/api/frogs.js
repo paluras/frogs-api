@@ -8,11 +8,11 @@ router.get("/", headers, (req, res) => {
   res.json(frogs);
 });
 
-router.get("/:id", headers, (req, res) => {
+router.get("/:id.json", headers, (req, res) => {
   const found = frogs.some(frog => frog.edition === parseInt(req.params.id));
 
   if (found) {
-    res.json(frogs.filter(frog => frog.edition === parseInt(req.params.id)));
+    res.json(frogs.filter(frog => frog.edition === parseInt(req.params.id))[0]);
   } else {
     res.sendStatus(400);
   }
