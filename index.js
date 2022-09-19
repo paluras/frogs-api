@@ -3,7 +3,7 @@ const app = express();
 const cors = require('cors');
 
 app.use(cors({
-  origin: "https://sunflower-land.com",
+  origin: "*",
 }))
 
 app.use(express.json());
