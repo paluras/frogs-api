@@ -7,11 +7,11 @@ router.get("/", (req, res) => {
   res.json(frogs);
 });
 
-router.get("/:id", (req, res) => {
+router.get("/:id.json", (req, res) => {
   const found = frogs.some(frog => frog.edition === parseInt(req.params.id));
 
   if (found) {
-    res.json(frogs.filter(frog => frog.edition === parseInt(req.params.id)));
+    res.json(frogs.filter(frog => frog.edition === parseInt(req.params.id))[0]);
   } else {
     res.sendStatus(400);
   }
