@@ -3,7 +3,7 @@ const app = express();
 const cors = require('cors');
 
 app.use(cors({
-  origin: "http://localhost:3000",
+  origin: "https://sunflower-land.com",
 }))
 
 app.use(express.json());
