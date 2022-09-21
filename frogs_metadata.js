@@ -17400,7 +17400,7 @@ module.exports = [
     "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
   },
   {
-    "name": "Pooky #436",
+    "name": "Pika #436",
     "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
     "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/436.png",
     "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/436.png",
@@ -17429,7 +17429,7 @@ module.exports = [
       },
       {
         "trait_type": "Name",
-        "value": "Pooky"
+        "value": "Pika"
       },
       {
         "trait_type": "Rarity",
