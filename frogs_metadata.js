@@ -3242,8 +3242,8 @@ module.exports = [
   {
     "name": "Hope #82",
     "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
-    "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/82.png",
-    "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/82.png",
+    "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/82.gif",
+    "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/82.gif",
     "dna": "42abaf0c30c6368481053c571418f939b000e365",
     "edition": 82,
     "date": 1663609838562,
@@ -6322,8 +6322,8 @@ module.exports = [
   {
     "name": "Julio #159",
     "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
-    "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/159.png",
-    "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/159.png",
+    "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/159.gif",
+    "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/159.gif",
     "dna": "3a71e1f02cd2a54aee522e49993743d2ab9628af",
     "edition": 159,
     "date": 1663609838847,
