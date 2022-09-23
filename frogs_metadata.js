@@ -11240,7 +11240,7 @@ module.exports = [
     "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
   },
   {
-    "name": "Paco #282",
+    "name": "Omer #282",
     "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
     "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/282.png",
     "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/282.png",
@@ -12160,7 +12160,7 @@ module.exports = [
     "founders": "Project Dignity: Tiffanydys, DonatasDee, VadimasVP, Paluras"
   },
   {
-    "name": "Frisky #305",
+    "name": "Rene #305",
     "description": "Unique NFT Frogs for your Sunflower Land Farm. Made by Toad_Sage.",
     "image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/images/305.png",
     "pixel_image": "https://raw.githubusercontent.com/tiffanydys/frogs/main/pixel_images/305.png",
