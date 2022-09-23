@@ -11269,7 +11269,7 @@ module.exports = [
       },
       {
         "trait_type": "Name",
-        "value": "Paco"
+        "value": "Omer"
       },
       {
         "trait_type": "Rarity",
@@ -12189,7 +12189,7 @@ module.exports = [
       },
       {
         "trait_type": "Name",
-        "value": "Frisky"
+        "value": "Rene"
       },
       {
         "trait_type": "Rarity",
